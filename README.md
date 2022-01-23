@@ -1,3 +1,5 @@
+-----------------------------
+
 <div align="center">
 <img src="resources/icons/scalable/apps/rnote.svg" width="256"></img>
 </div><br><br><br>
